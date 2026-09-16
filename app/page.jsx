@@ -57,7 +57,7 @@ const HVAC_ASSETS = {
     phoneDisplay: "(555) 123-4567",
     phoneTel: "tel:+15551234567",
     whatsappNumber: "15551234567", // digits only (no "+"), required by wa.me
-    email: "dispatch@breezemax.com",
+    email: "loverbollywood111@gmail.com",
     // Leave blank to fall back to a formatted mailto:. Point this at a
     // Formspree (or similar) endpoint — e.g. "https://formspree.io/f/abcdwxyz" —
     // to POST the lead form to a real inbox/CRM instead.
