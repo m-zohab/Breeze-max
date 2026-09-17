@@ -56,8 +56,8 @@ const HVAC_ASSETS = {
     // it updates the header, hero, floating actions, and contact panel.
     phoneDisplay: "(555) 123-4567",
     phoneTel: "tel:+15551234567",
-    whatsappNumber: "923276578059", // digits only (no "+"), required by wa.me
-    email: "loverbollywood111@gmail.com",
+    whatsappNumber: "+1234567890", // digits only (no "+"), required by wa.me
+    email: "muhammadzohaib4042@gmail.com",
     // Leave blank to fall back to a formatted mailto:. Point this at a
     // Formspree (or similar) endpoint — e.g. "https://formspree.io/f/abcdwxyz" —
     // to POST the lead form to a real inbox/CRM instead.
